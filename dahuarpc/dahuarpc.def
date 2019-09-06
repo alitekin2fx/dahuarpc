@@ -1,0 +1,10 @@
+LIBRARY
+EXPORTS
+	dahuarpc_init
+	dahuarpc_cleanup
+
+	dahuarpc_open
+	dahuarpc_close
+
+	dahuarpc_login
+	dahuarpc_get_access_ctl_card_recs

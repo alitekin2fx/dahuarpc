@@ -1,0 +1,8 @@
+﻿$RECYCLE.BIN/
+[Bb]uild/
+*.pdb
+*.user
+*.aps
+*.pch
+*.ncb
+*.suo
